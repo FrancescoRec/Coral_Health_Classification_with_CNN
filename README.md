@@ -12,3 +12,6 @@ IslandCity's coastal regions rely heavily on the purity of their waters, both fo
 * Data Augmentation: Employs image data augmentation to enhance the model's ability to generalize and perform well on unseen data.
 * Fine-Tuning with RandomSearch: Optimizes model hyperparameters using Keras Tuner's RandomSearch, improving model performance and accuracy.
 * Early Stopping and Regularization: Incorporates advanced techniques to prevent overfitting and improve model robustness.
+
+
+![Corals](corals.jpg)
