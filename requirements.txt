@@ -1,0 +1,10 @@
+numpy
+tensorflow
+opencv-python
+imutils
+pandas
+matplotlib
+seaborn
+keras
+keras-tuner
+scikit-learn
